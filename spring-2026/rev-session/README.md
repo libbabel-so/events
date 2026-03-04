@@ -89,7 +89,9 @@ Alternatively, you can follow [this guide](https://learn.microsoft.com/en-us/win
 
 You have entirely different architectures from Windows and Linux users, and so you'll need to setup a Linux Virtual Machine to run linux x86 executables. I'm not sure how to help you with that, all the best.
 
-> [!NOTE] Running vs Debugging
+> [!NOTE] 
+> On Running vs Debugging
+> 
 > To run the actual program on your machine, you will need hardware suppport which requires x86 and GNU/Linux support
 > 
 > However even if you can't physically run the programs, you can still analyze and understand what it does, which is the point of reverse engineering. The debuggers we discuss here should still be enough to help you gather an understand of how executables and assembly work.
