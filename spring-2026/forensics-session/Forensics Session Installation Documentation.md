@@ -4,7 +4,7 @@ We will proceed to setup WSL(Windows Subsystem for Linux) in Windows, since most
 # MacOS:
 Install [homebrew](https://brew.sh/)
 # Linux (And Others):
-You can skip the WSL Setup and jump directly to the setup of the packages. [[#Required Package Installation]]
+You can skip the WSL Setup and jump directly to the setup of the packages.
 
 # WSL Setup:
 Note: Alternatively, you can follow [this guide](https://learn.microsoft.com/en-us/windows/wsl/install).
